@@ -20,12 +20,12 @@ This portfolio includes various sections like About Me, Portfolio, Contact, and 
 - **Contact**: Contains a form for reaching out along with validations for required fields.
 - **Resume**: Offers a downloadable resume and a list of my proficiencies.
 
-Deployed Application Link: [Deployed Application on Netlify](#)
+Deployed Application Link: [Deployed Here](#)
 
 ## Credits
 Source code and step by step guid was used from the following tutorial video 
 
-- [How to make a portfolio Website](#https://www.youtube.com/watch?v=4ag1LsgIUc0)
+[How to make a portfolio Website](#https://www.youtube.com/watch?v=4ag1LsgIUc0)
 
 
 
