@@ -24,9 +24,10 @@ Deployed Application Link: [Deployed Here](https://main--reliable-moonbeam-56c40
 
 
 ## Credits
-Source code and step by step guid was used from the following tutorial video 
+Source code and step by step guide was used from the following tutorial video 
 
-[How to make a portfolio Website](#https://www.youtube.com/watch?v=4ag1LsgIUc0)
+[How to make a portfolio Website](https://www.youtube.com/watch?v=4ag1LsgIUc0)
+
 
 
 
