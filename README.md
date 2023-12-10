@@ -20,7 +20,8 @@ This portfolio includes various sections like About Me, Portfolio, Contact, and 
 - **Contact**: Contains a form for reaching out along with validations for required fields.
 - **Resume**: Offers a downloadable resume and a list of my proficiencies.
 
-Deployed Application Link: [Deployed Here](#https://main--reliable-moonbeam-56c40b.netlify.app/)
+Deployed Application Link: [Deployed Here](https://main--reliable-moonbeam-56c40b.netlify.app/)
+
 
 ## Credits
 Source code and step by step guid was used from the following tutorial video 
